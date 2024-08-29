@@ -1,0 +1,80 @@
+2024-08-29 07:16:07,675:Key pressed: Key.alt_l
+
+2024-08-29 07:16:07,753:Key pressed: Key.tab
+
+2024-08-29 07:16:07,836:Key pressed:Key.alt_l
+
+2024-08-29 07:16:07,888:Key pressed:Key.tab
+
+2024-08-29 07:16:10,581:Key pressed: m
+
+2024-08-29 07:16:10,675:Key pressed:'m'
+
+2024-08-29 07:16:11,443:Key pressed: e
+
+2024-08-29 07:16:11,569:Key pressed:'e'
+
+2024-08-29 07:16:11,617:Key pressed: o
+
+2024-08-29 07:16:11,714:Key pressed:'o'
+
+2024-08-29 07:16:11,919:Key pressed: w
+
+2024-08-29 07:16:12,051:Key pressed:'w'
+
+2024-08-29 07:16:12,240:Key pressed: Key.space
+
+2024-08-29 07:16:12,389:Key pressed:Key.space
+
+2024-08-29 07:16:12,513:Key pressed: m
+
+2024-08-29 07:16:12,638:Key pressed:'m'
+
+2024-08-29 07:16:12,685:Key pressed: e
+
+2024-08-29 07:16:12,780:Key pressed:'e'
+
+2024-08-29 07:16:12,832:Key pressed: o
+
+2024-08-29 07:16:12,925:Key pressed:'o'
+
+2024-08-29 07:16:12,945:Key pressed: w
+
+2024-08-29 07:16:13,055:Key pressed:'w'
+
+2024-08-29 07:16:13,509:Key pressed: Key.alt_l
+
+2024-08-29 07:16:13,612:Key pressed: Key.tab
+
+2024-08-29 07:16:13,674:Key pressed:Key.alt_l
+
+2024-08-29 07:16:13,721:Key pressed:Key.tab
+
+2024-08-29 07:16:22,395:Key pressed: Key.alt_l
+
+2024-08-29 07:16:22,536:Key pressed: Key.tab
+
+2024-08-29 07:16:22,613:Key pressed:Key.alt_l
+
+2024-08-29 07:16:22,669:Key pressed:Key.tab
+
+2024-08-29 07:16:23,229:Key pressed: Key.alt_l
+
+2024-08-29 07:16:23,381:Key pressed: Key.tab
+
+2024-08-29 07:16:23,432:Key pressed:Key.alt_l
+
+2024-08-29 07:16:23,493:Key pressed:Key.tab
+
+2024-08-29 07:16:24,287:Key pressed: Key.alt_l
+
+2024-08-29 07:16:24,381:Key pressed: Key.tab
+
+2024-08-29 07:16:24,480:Key pressed:Key.alt_l
+
+2024-08-29 07:16:24,532:Key pressed:Key.tab
+
+2024-08-29 07:16:25,868:Key pressed: Key.esc
+
+2024-08-29 07:16:25,976:Key pressed:Key.esc
+
